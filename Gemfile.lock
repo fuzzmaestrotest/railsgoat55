@@ -379,6 +379,7 @@ DEPENDENCIES
   rake
   rb-fsevent
   responders
+  RedCloth (= 4.3.2)
   rspec-rails (= 4.0.0.beta3)
   rubocop-github
   ruby-prof
